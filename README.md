@@ -9,7 +9,3 @@ Graduate of Game Technology (BSc) @ The University of the West of England.
   - [Water Simulation](https://github.com/DudleyHK/WaterSimulation)
   - [Dissertation](https://github.com/DudleyHK/Dissertation)
 - [YouTube](https://www.youtube.com/channel/UCy153prywSIg_02ypJQDNJQ/videos)
-
-
-
-## 2018
