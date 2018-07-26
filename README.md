@@ -1,7 +1,7 @@
 Graduate of Game Technology (BSc) @ The University of the West of England.
 
 
-- [Resume](https://dudleyhk.github.io/portfolio/Resume.pdf)
+- [Résumé](https://dudleyhk.github.io/portfolio/Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/dudleyhk/)
 - [Twitter](https://twitter.com/DDaqes)
 - [GitHub](https://github.com/DudleyHK?tab=repositories)
