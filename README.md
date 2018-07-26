@@ -7,5 +7,5 @@ Graduate of Game Technology (BSc) @ The University of the West of England.
 - [GitHub](https://github.com/DudleyHK?tab=repositories)
   - [Particle Swarm Optimisation](https://github.com/DudleyHK/SwarmAIProject)
   - [Water Simulation](https://github.com/DudleyHK/WaterSimulation)
-  - [Dissertation](https://github.com/DudleyHK/Dissertation)
+  - [Investigating Automated Level Design](https://github.com/DudleyHK/Investigating-Automated-Level-Design)
 - [YouTube](https://www.youtube.com/channel/UCy153prywSIg_02ypJQDNJQ/videos)
